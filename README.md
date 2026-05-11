@@ -11,7 +11,7 @@
 
 ## 📱 Overview
 
-MyMoney is a modern, offline‑first expense tracker that demonstrates three key local storage techniques in Flutter:
+The app is a modern, offline‑first expense tracker that demonstrates three key local storage techniques in Flutter:
 
 - **Secure PIN** (encrypted)
 - **SQLite database** for structured expense records
